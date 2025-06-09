@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarkRahimzanov
+- 👋 Hi, I’m @Mark
 - 👀 I’m interested in coding , reading ;
 - 🌱 I’m currently learning C#, unity , C , C++ , Python ; 
 
